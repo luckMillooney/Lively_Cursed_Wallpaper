@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Cursed matrix",
+  "Thumbnail": "yzqrhvlx.jpg",
+  "Preview": "uyilr1xu.gif",
+  "Desc": "Luck_millooney's modification of matrix by parambirs / khuong\r\non start - default color mod\r\nswitch on Rainbow - reset color\r\npick a color - add color to list of random colors",
+  "Author": "Luck_millooney",
+  "License": "",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
